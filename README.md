@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Nader Elhadedy 👋✨
+#### Machine Learning Engineer :man_technologist: | Former AI Trainee at ITI :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
+ 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
+&nbsp;
+[![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/dedy_nader)
 
+🔭 I’m currently looking for a good opportunity as I'm interested in ML and DS roles<br>
+📄 Know more about me: [CV](https://drive.google.com/file/d/15JBQWT78hiVuGP2JMs9fEmzx3U-wYWl1/view?usp=sharing)<br>
+📫 Reach out to me on: nader.m.elhadedy@gmail.com<br>
 <!--
 **naderelhadedy/naderelhadedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderelhadedy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderelhadedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
