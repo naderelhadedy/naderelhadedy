@@ -1,5 +1,5 @@
 # Hi there, I'm Nader Elhadedy 👋✨
-#### Machine Learning Engineer :man_technologist: | Former AI Trainee at ITI :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
+#### Software Engineer :man_technologist: | Former AI Trainee at ITI :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
 &nbsp;
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderelhadedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
