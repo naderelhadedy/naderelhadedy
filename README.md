@@ -5,7 +5,7 @@
 &nbsp;
 [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/dedy_nader)
 
-🔭 I’m currently looking for a good opportunity as I'm interested in ML and DS roles<br>
+🔭 I'm interested in ML and DS roles in addition to SWE<br>
 📄 Know more about me: [CV](https://drive.google.com/file/d/15Q7vAt7sys-jLt79O7mT9deNNFEuGtMu/view?usp=sharing)<br>
 📫 Reach out to me on: nader.m.elhadedy@gmail.com<br>
 <!--
