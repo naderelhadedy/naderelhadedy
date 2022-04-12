@@ -6,7 +6,7 @@
 [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/dedy_nader)
 
 🔭 I'm interested in ML and DS roles in addition to SWE<br>
-📄 Know more about me: [CV](https://drive.google.com/file/d/15Q7vAt7sys-jLt79O7mT9deNNFEuGtMu/view?usp=sharing)<br>
+📄 Know more about me: [CV](https://drive.google.com/file/d/1Q-JN3zyEpUpyeiVQZEOoCmXR0bK2Ea2h/view?usp=sharing)<br>
 📫 Reach out to me on: nader.m.elhadedy@gmail.com<br>
 <!--
 **naderelhadedy/naderelhadedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
