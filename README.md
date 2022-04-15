@@ -1,9 +1,9 @@
 # Hi there, I'm Nader Elhadedy 👋✨
 #### Software Engineer :man_technologist: | Former AI Trainee at ITI :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
+[![Linkedin](https://img.icons8.com/color/30/000000/linkedin-circled--v1.png) LinkedIn](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
 &nbsp;
-[![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/dedy_nader)
+[![Twitter](https://img.icons8.com/color/30/000000/twitter-circled--v1.png) Twitter](https://twitter.com/dedy_nader)
 
 🔭 I'm interested in ML and DS roles in addition to SWE<br>
 📄 Know more about me: [CV](https://drive.google.com/file/d/1QEwXoGm8jNsgcjCpMvn1ukTHrnwtXyQK/view?usp=sharing)<br>
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderelhadedy&layout=compact&show_icons=true&theme=light)](https://github.com/naderelhadedy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderelhadedy&layout=compact&show_icons=true&theme=vue&langs_count=10)](https://github.com/naderelhadedy/github-readme-stats)
