@@ -1,13 +1,15 @@
 # Hi there, I'm Nader Elhadedy 👋✨
 #### Software Engineer :man_technologist: | Former AI Trainee at ITI :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
- 
+
 [![Linkedin](https://img.icons8.com/color/30/000000/linkedin-circled--v1.png) LinkedIn](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
 &nbsp;
 [![Twitter](https://img.icons8.com/color/30/000000/twitter-circled--v1.png) Twitter](https://twitter.com/dedy_nader)
 
 🔭 I'm interested in ML and DS roles in addition to SWE<br>
+🌱 The only thing I can guarantee you that I have is Eagerness to Learn<br>
 📄 Know more about me: [CV](https://drive.google.com/file/d/1Hzdw0IHHOeJEpSs9RqPvFQFPNIiByufA/view?usp=sharing)<br>
 📫 Reach out to me on: nader.m.elhadedy@gmail.com<br>
+
 <!--
 **naderelhadedy/naderelhadedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
