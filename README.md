@@ -3,7 +3,9 @@
 
 [![Linkedin](https://img.icons8.com/color/30/000000/linkedin-circled--v1.png) LinkedIn](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
 &nbsp;
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png) LeetCode](https://leetcode.com/Nader_Elhadedy/)
 [![Twitter](https://img.icons8.com/color/30/000000/twitter-circled--v1.png) Twitter](https://twitter.com/dedy_nader)
+[![Medium](https://img.icons8.com/ios-filled/30/medium-logo.png) Medium](https://medium.com/@nader.m.elhadedy)
 
 🔭 I'm interested in ML and DS roles in addition to SWE<br>
 🌱 The only thing I can guarantee you that I have is Eagerness to Learn<br>
