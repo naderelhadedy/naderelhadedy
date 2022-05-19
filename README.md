@@ -9,7 +9,7 @@
 
 🔭 I'm interested in ML and DS roles in addition to SWE<br>
 🌱 The only thing I can guarantee you that I have is Eagerness to Learn<br>
-📄 Know more about me: [CV](https://drive.google.com/file/d/1Hzdw0IHHOeJEpSs9RqPvFQFPNIiByufA/view?usp=sharing)<br>
+📄 Know more about me: [CV](https://drive.google.com/file/d/1k-KpNed5yuH9EXLlFe6zOmU9HORZ61_R/view?usp=sharing)<br>
 📫 Reach out to me on: nader.m.elhadedy@gmail.com<br>
 
 <!--
