@@ -2,7 +2,7 @@
 #### Software Engineer :man_technologist: | Machine Learning/Python/AWS :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png" width="35"/>](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
+[<img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png" width="35" target="_blank"/>](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="35"/>](https://leetcode.com/Nader_Elhadedy/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
