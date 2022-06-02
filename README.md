@@ -2,7 +2,7 @@
 #### Software Engineer :man_technologist: | Machine Learning/Python/AWS :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png" width="35" onclick="window.open(this.src, '_blank');"/>](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
+[<img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png" width="35"/>](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="35"/>](https://leetcode.com/Nader_Elhadedy/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderelhadedy&layout=compact&show_icons=true&theme=vue&langs_count=10)](https://github.com/naderelhadedy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderelhadedy&layout=compact&show_icons=true&theme=vue&langs_count=8)](https://github.com/naderelhadedy/github-readme-stats)
