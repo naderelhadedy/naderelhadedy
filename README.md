@@ -1,5 +1,5 @@
 # Hi there, I'm Nader Elhadedy 👋✨
-#### Software Engineer :man_technologist: | Machine Learning/Python/AWS :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
+#### Software Engineer :man_technologist: | ML/Python/AWS :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png" width="35"/>](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
