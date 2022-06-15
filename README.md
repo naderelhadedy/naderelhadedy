@@ -17,7 +17,7 @@
 [![Twitter](https://img.icons8.com/color/30/000000/twitter-circled--v1.png) Twitter](https://twitter.com/dedy_nader)
 [![Medium](https://img.icons8.com/ios-filled/30/medium-logo.png) Medium](https://medium.com/@nader.m.elhadedy)
 -->
-🔭 I'm interested in Back-End SWE, Machine Learning and Data Science roles<br>
+🔭 I'm interested in SWE, Machine Learning and Data Science roles<br>
 🌱 The only thing I can guarantee you that I have is <b>Eagerness to Learn</b><br>
 📫 Reach out to me on: nader.m.elhadedy@gmail.com<br>
 
