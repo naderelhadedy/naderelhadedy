@@ -19,6 +19,7 @@
 -->
 🔭 I'm interested in SWE, Machine Learning and Data Science roles<br>
 🌱 The only thing I can guarantee you that I have is <b>Eagerness to Learn</b><br>
+⚡ My personal slogan is I need to learn, I need to grow and I need to take responsibility<br>
 📫 Reach out to me on: nader.m.elhadedy@gmail.com<br>
 
 <!-- Know more about me: [CV](https://drive.google.com/file/d/1k-KpNed5yuH9EXLlFe6zOmU9HORZ61_R/view?usp=sharing)<br>-->
