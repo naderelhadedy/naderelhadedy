@@ -6,8 +6,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="35"/>](https://leetcode.com/Nader_Elhadedy/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/30/000000/twitter-circled--v1.png" width="35"/>](https://twitter.com/nader_elhadedy)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/ios-filled/30/medium-logo.png" width="35"/>](https://medium.com/@nader.m.elhadedy)
 
 <!--
