@@ -1,14 +1,15 @@
 # Hi there, I'm Nader Elhadedy 👋✨
 #### Software Engineer :man_technologist: | ML/Python/AWS :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png" width="35"/>](https://www.linkedin.com/in/nader-elhadedy)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="35"/>](https://leetcode.com/Nader_Elhadedy/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/ios-filled/30/medium-logo.png" width="35"/>](https://medium.com/@nader.m.elhadedy)
 
 <!--
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png" width="35"/>](https://www.linkedin.com/in/nader-elhadedy)
 [![Linkedin](https://img.icons8.com/color/30/000000/linkedin-circled--v1.png) LinkedIn](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
 &nbsp;
 [![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png) LeetCode](https://leetcode.com/Nader_Elhadedy/)
