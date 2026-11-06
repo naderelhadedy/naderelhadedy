@@ -1,43 +1,74 @@
-# Hi there, I'm Nader Elhadedy 👋✨
-#### Software Engineer :man_technologist: | Python/C#/ML/AWS/Azure :monocle_face: | Passionate about Technology :technologist: | My hobby is Table Tennis 🏓
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Nader Elhadedy — Software Engineer II at Microsoft. Backend engineering, cloud, and AI." />
+</p>
 
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="35"/>](https://leetcode.com/Nader_Elhadedy/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/ios-filled/30/medium-logo.png" width="35"/>](https://medium.com/@nader.m.elhadedy)
--->
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png" width="35"/>](https://www.linkedin.com/in/nader-elhadedy)
-[![Linkedin](https://img.icons8.com/color/30/000000/linkedin-circled--v1.png) LinkedIn](https://www.linkedin.com/in/nader-elhadedy-8b6329191/)
-&nbsp;
-[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/30/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png) LeetCode](https://leetcode.com/Nader_Elhadedy/)
-[![Twitter](https://img.icons8.com/color/30/000000/twitter-circled--v1.png) Twitter](https://twitter.com/dedy_nader)
-[![Medium](https://img.icons8.com/ios-filled/30/medium-logo.png) Medium](https://medium.com/@nader.m.elhadedy)
--->
-🔭 I'm interested in Software Engineering/Backend roles<br>
-🌱 The only thing I can guarantee you that I have is <b>Eagerness to Learn</b><br>
-⚡ My personal slogan is I need to learn, I need to grow and I need to take responsibility<br>
-📫 Reach out to me on: nader.m.elhadedy@gmail.com<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nader-elhadedy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:nader.m.elhadedy@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-38BDF8?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Nader" /></a>
+  <a href="https://drive.google.com/file/d/1uY2_3WkJR8M3IESI7Bpc93cHHOnNMvd0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_PDF-A78BFA?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="View résumé" /></a>
+</p>
 
-<!-- Know more about me: [CV](https://drive.google.com/file/d/1k-KpNed5yuH9EXLlFe6zOmU9HORZ61_R/view?usp=sharing)<br>-->
+<p align="center">
+  Building cloud services and APIs — from design to production.<br />
+  <strong>Python &amp; C# · Azure &amp; AWS · Based in Egypt</strong>
+</p>
 
-<!--
-**naderelhadedy/naderelhadedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 A little about me
 
-Here are some ideas to get you started:
+- 💼 **Software Engineer II at Microsoft**, working on backend services for search and AI grounding on Azure.
+- 🛠️ I own features end-to-end: design, implementation, testing, delivery, and production support.
+- ☁️ Previously built AWS data-processing services at **Trufla** and a FastAPI booking platform at **Gostada**.
+- 🧠 AI/ML postgraduate diploma holder, currently studying **Agentic AI at Udacity**.
+- 🏓 Away from the keyboard, you'll find me playing table tennis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📄
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderelhadedy&layout=compact&show_icons=true&theme=vue&langs_count=8)](https://github.com/naderelhadedy/github-readme-stats)
--->
+## 🧰 Tech stack
+
+<p align="center"><strong>Languages &amp; backend</strong></p>
+<p align="center">
+  <img src="assets/icons/python.svg" width="48" height="48" alt="Python" title="Python" />
+  <img src="assets/icons/csharp.svg" width="48" height="48" alt="C#" title="C#" />
+  <img src="assets/icons/dotnetcore.svg" width="48" height="48" alt=".NET" title=".NET" />
+  <img src="assets/icons/fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI" />
+  <img src="assets/icons/django.svg" width="48" height="48" alt="Django" title="Django" />
+</p>
+
+<p align="center"><strong>Cloud &amp; engineering</strong></p>
+<p align="center">
+  <img src="assets/icons/azure.svg" width="48" height="48" alt="Azure" title="Azure" />
+  <img src="assets/icons/amazonwebservices.svg" width="48" height="48" alt="AWS" title="AWS" />
+  <img src="assets/icons/docker.svg" width="48" height="48" alt="Docker" title="Docker" />
+  <img src="assets/icons/githubactions.svg" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="assets/icons/git.svg" width="48" height="48" alt="Git" title="Git" />
+  <img src="assets/icons/linux.svg" width="48" height="48" alt="Linux" title="Linux" />
+</p>
+
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
+  <img src="assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/icons/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" />
+  <img src="assets/icons/mongodb.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  <img src="assets/icons/microsoftsqlserver.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
+</p>
+
+## 📊 GitHub at a glance
+
+<p align="center">
+  <a href="https://github.com/naderelhadedy?tab=repositories">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naderelhadedy&amp;theme=github_dark" alt="GitHub statistics for Nader Elhadedy" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naderelhadedy&amp;theme=github_dark" alt="Most committed languages across public repositories" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/naderelhadedy">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderelhadedy&amp;theme=github_dark" alt="GitHub contribution activity for Nader Elhadedy" />
+  </a>
+</p>
+<p align="center"><sub>These cards reflect public GitHub activity; professional work may live in private repositories.</sub></p>
+
+---
+
+<p align="center">
+  <strong>Let's connect.</strong><br />
+  Always happy to talk backend engineering, cloud services, and AI.<br /><br />
+  <a href="https://www.linkedin.com/in/nader-elhadedy">LinkedIn</a> · <a href="mailto:nader.m.elhadedy@gmail.com">Email</a>
+</p>

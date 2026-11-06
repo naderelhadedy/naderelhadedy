@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Nader Elhadedy — Backend Software Engineer</title>
+  <desc id="desc">Software Engineer II at Microsoft. Backend systems, cloud services, and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#12253c"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="56" y="55" width="56" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="56" y="112" fill="#7dd3fc" font-size="15" letter-spacing="3">BACKEND ENGINEERING / CLOUD / AI</text>
+    <text x="52" y="180" fill="#f0f6fc" font-size="58" font-weight="700">Nader Elhadedy</text>
+    <text x="56" y="224" fill="#b6c5d8" font-size="22">Software Engineer II @ Microsoft</text>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".65">
+    <rect x="931" y="74" width="170" height="52" rx="10"/>
+    <rect x="931" y="142" width="170" height="52" rx="10"/>
+    <path d="M1016 126v16m0 52v31m-65 0h130"/>
+    <circle cx="951" cy="100" r="4"/><circle cx="951" cy="168" r="4"/>
+    <path d="M972 100h105m-105 68h105"/>
+  </g>
+  <rect x="56" y="283" width="1088" height="2" rx="1" fill="url(#accent)" opacity=".6"/>
+</svg>
